@@ -1,0 +1,13 @@
+:root {
+  --blue: #a5cbef;
+  --light-blue: #d4e4f3;
+  --pink: #ffa9a8;
+  --yellow: #ffde59;
+  --light-yelow: #ffea94;
+  --text-color: #251a1a;
+  --mager-color: #662a82;
+}
+
+body {
+  background-color: var(--mager-color);
+}
