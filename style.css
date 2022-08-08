@@ -49,11 +49,11 @@ body {
 .story_container {
   width: calc(96% / 3);
   height: 200px;
-  border: red solid 2px;
+  /* border: red solid 2px; */
   overflow: hidden;
 }
 .story_img {
-  border: solid black 2px;
+  /* border: solid black 2px; */
   width: 100%;
   height: 200px;
   background-image: url(Photos/o_n_5_394_gianluca-mager-1.png);
